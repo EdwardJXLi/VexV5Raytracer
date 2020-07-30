@@ -4,4 +4,4 @@ A port of [scratchapixel's Ultra-Lightweight Raytracing Engine](https://www.scra
 
 A Quick 10-minute port built On Top Of The Original Vex V5 Api.
 
-![]((https://raw.githubusercontent.com/RadioactiveHydra/VexV5Raytracer/master/demo.jpg)
+![](https://raw.githubusercontent.com/RadioactiveHydra/VexV5Raytracer/master/demo.jpg)
